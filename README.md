@@ -8,13 +8,14 @@ This app allows the user to write, save and delete notes.
 using the methods GET, POST and DELETE, also using our own api.
 
 # Table of contents
-
-Instalation
-Usage
-License
-Technologies
-Contact
-Image
+- Description
+- Instalation
+- Usage
+- License
+- Technologies
+- Contact
+- Image link
+- Website link
 
 # Instalation
 
@@ -32,14 +33,14 @@ This project is not licensed.
 
 # Technologies
 
-Html
-CSS
-Bootstrap
-JavaScript
-Node.js
-Express.js
-Inquirer 
-Uuid
+- Html
+- CSS
+- Bootstrap
+- JavaScript
+- Node.js
+- Express.js
+- Inquirer 
+- Uuid
 
 # Contact
 
@@ -47,7 +48,7 @@ This was created by https://github.com/FadesOner, if you have any enquiry do not
 
 # Image link
 
-![note taker app.](./assets/image/note-taker.png)
+![note taker app.](./public/assets/image/note-taker.png)
 
 # Website link
 
